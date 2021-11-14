@@ -1,0 +1,1 @@
+scriptSlideTransition(TRANS_MODE.RESTART);
